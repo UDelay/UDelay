@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🧬 I am majoring Life Science In GIST (Gwangju Institute of Science and Technology)
+🧬 I am majoring Life Science In GIST (Gwangju Institute of Science and Technology) <br/>
 🖥️ I am also taking various EECS courses, especially computational courses to study bioinformatics
 
 
