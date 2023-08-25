@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+🧬 I am majoring Life Science In GIST (Gwangju Institute of Science and Technology)
+🖥️ I am also taking various EECS courses, especially computational courses to study bioinformatics
+
+
+
 <!--
 **UDelay/UDelay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
