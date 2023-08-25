@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-🧬 I am majoring Life Science In GIST (Gwangju Institute of Science and Technology) <br/>
-🖥️ I am also taking various EECS courses, especially computational courses to study bioinformatics
+🧬 I am majoring Life Science In GIST (Gwangju Institute of Science and Technology). <br/>
+🖥️ I am also taking various EECS courses, especially computational courses to study bioinformatics.
 
+my CV: <https://www.notion.so/Jiyeon-Lyu-CV-dc88ca644bea432eb021e04ec83ef385?pvs=4>
 
 
 <!--
